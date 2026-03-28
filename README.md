@@ -30,3 +30,6 @@ One of the key strengths of this task is that it provides hands-on experience wi
 In conclusion, the Penetration Testing Toolkit demonstrates essential cybersecurity concepts such as network scanning and password cracking using Python. It emphasizes the importance of identifying vulnerabilities before attackers can exploit them and showcases how simple tools can be used to enhance system security. This task not only improves technical skills but also builds a strong foundation for advanced penetration testing and ethical hacking practices.
 
 *OUTPUT*:
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e772db98-5840-410f-93e3-e5158cb0bc7e" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4701c601-41d6-4e7a-93b2-f0925621b0de" />
